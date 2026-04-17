@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7615cfaf53a56d8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c1d07f24857745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081e688c2664d898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8eb1f6d8c8c8831f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e1111279f15a9c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5ada40001c8726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1ee4dc4f0697d5a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "da7d8234ee7feebf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c67709166f9c92a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "600b8177590cdc4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd299eaa9ff5f1ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Todo.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Todo 的反向链接列表"
+            }
+          },
+          {
+            "id": "3453cd5de4cfe441",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Todo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Todo 的出链列表"
+            }
+          },
+          {
+            "id": "0d679eb08f9c0e10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b099e1f86f6bb8ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1eabecdba1dc7d50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Todo.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Todo 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "081e688c2664d898",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "Todo.md",
+    "八字精确定事——完整方法论.md",
+    "docs/core.md",
+    "docs/orchestrator.md",
+    "docs/orchestrator_capabilities.md",
+    "docs/orchestrator_execution_units.md",
+    "docs/orchestrator_strategies.md",
+    "docs/README.md",
+    "640.webp",
+    "docs/services_memory.md",
+    "docs/services_load_balancer.md",
+    "Todo 1.md",
+    "docs/api.md",
+    "提示词优化.md",
+    "image-3.png",
+    "image-2.png",
+    "image-1.png",
+    "image.png",
+    "docs/services_prompt.md",
+    "docs/services_rerank.md",
+    "使用大模型高效理解代码库~25098.tmp",
+    "使用大模型高效理解代码库~E45F3.tmp",
+    "~$大模型高效理解代码库.docx",
+    "prompt optimize.md",
+    "docs/project_overview.md",
+    "docs/microservices.md",
+    "docs/services_resilience.md",
+    "docs/services.md",
+    "好用的提示词.md",
+    "docs/services_tokenizer.md"
+  ]
+}
