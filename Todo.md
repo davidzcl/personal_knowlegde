@@ -1436,6 +1436,24 @@ git update-index --no-assume-unchanged <file_path>
 git ls-files -v | grep '^[a-z]'
 ```
 
+| 操作                   | 命令                   |
+| -------------------- | -------------------- |
+| 查看当前目录的状态            | git status           |
+| 需要提交的文件提交到暂存区        | git add              |
+| 提交                   | git commit -m<br>    |
+| 提交指定的文件              | git commit --include |
+| 逐个查看并选择要提交的文件的修改内容   | git commit --patch   |
+| 存储更改                 | git stash            |
+| 查看储藏的更改列表            | git stash list       |
+| 从堆栈中移除更改并将其放置到当前工作目录 | git stash pop        |
+| 从本地仓库中恢复已删除的文件；切换分支  | git checkout         |
+| 从暂存区移除修改             | git checkout HEAD -- |
+| 分支                   | git branch           |
+| 分支变基                 | git rebase           |
+| 分支合并                 | git merge            |
+分支合并：将其他分支的提交放在当前本地分支的head上。
+分支变基：修改当前本地分支中的提交顺序来将提交推送到本地分支
+
 # Transformer
 
 ## Transformer现有架构在什么情况下，哪个模块会导致用户意图判别不准？
